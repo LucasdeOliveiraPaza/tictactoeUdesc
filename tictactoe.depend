@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1731692869 source:c:\users\cliente\desktop\projetos\aulas\tictactoe\control.c
+	"control.h"
+
+1731687762 c:\users\cliente\desktop\projetos\aulas\tictactoe\control.h
+
+1731692626 source:c:\users\cliente\desktop\projetos\aulas\tictactoe\main.c
+	<stdio.h>
+	<stdlib.h>
+	"control.h"
+
